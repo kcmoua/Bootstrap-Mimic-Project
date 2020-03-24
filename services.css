@@ -16,12 +16,25 @@ body {
     background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg);
     background-size: 100%;}
 #section3 {
-    padding-top:50px;height:410px;color: rgb(0, 0, 0); background-color: #f9ebf4;}
+    padding-top:50px;
+    height:410px;
+    color: rgb(0, 0, 0);
+    background-color: #f9ebf4;}
 #section4 {
-    padding-top:50px;height:450px;color: rgb(0, 0, 0); background-color: none;}
+    padding-top:50px;
+    height:450px;color: rgb(0, 0, 0); background-color: none;}
 #section5 {
-    padding-top:50px;height:610px;color: #fff; background-image: url(https://tinyhorse.com/wp-content/uploads/2020/01/FEET-grad.jpg);}
+    padding-top:50px;
+    height:610px;
+    color: #fff;
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2020/01/FEET-grad.jpg);}
 #section6 {
-    padding-top:50px;height:500px;color: #fff; background-color: #fc716d;}
+    padding-top:50px;
+    height:500px;
+    color: #fff;
+    background-color: #fc716d;}
 #section7 {
-    padding-top:50px;height:500px;color: #fff; background-color: #262424;}
+    padding-top:50px;
+    height:400px;
+    color: #fff;
+    background-color: #262424;}
